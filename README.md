@@ -1,16 +1,21 @@
-### Hi there 👋
+## Приветствую! 👋
 
-<!--
-**PremiumQQ/PremiumQQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Я Митасов Игорь, DevOps инженер.
 
-Here are some ideas to get you started:
+### Мои проекты:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:one: <code>[Дипломный практикум в YandexCloud](https://github.com/PremiumQQ/DevOps_diplom)</code>
+
+:two: <code>[Успешно выполненые задания, по программе нетологии "DepOps-инженер"](https://github.com/PremiumQQ/DevOps_netology)</code>
+
+:three: <code>[Успешно выполненые задания, по программе нетологии "Основы программирования на Python"](https://github.com/PremiumQQ/PythonNetology)</code>
+
+:four: <code>[Домашний билд-тест-сервер]()</code>
+
+### Сертификаты нетологии:
+
+:one: <code>[DevOps-инженер](https://drive.google.com/file/d/1L5dZsqIpSdE2Nw7dAOv09rGKISFza2xM/view)</code>
+
+:two: <code>[Основы программирования на Python](https://drive.google.com/file/d/1De44XPKAbp6kqqot6L-JIWZ8-fQvN_zv/view)</code>
+
+:three: <code>[Психология: путь к себе](https://drive.google.com/file/d/1M0DH7X_HBmci0kEZHS1j-eAHQxMPgjeW/view)</code>
