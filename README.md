@@ -10,7 +10,7 @@
 
 :three: <code>[Успешно выполненые задания, по программе нетологии "Основы программирования на Python"](https://github.com/PremiumQQ/PythonNetology)</code>
 
-:four: <code>[Домашний билд-тест-сервер]()</code>
+:four: <code>[Домашний билд-тест-сервер](https://github.com/PremiumQQ/Home_build_test_server)</code>
 
 ### Сертификаты нетологии:
 
